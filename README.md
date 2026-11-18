@@ -1,4 +1,4 @@
-# FSD Capstone Project
+# Advanced Computer Vision for Autonomous Driving
 
 Self-driving car capstone: steering-angle prediction, lane segmentation and object detection.
 
